@@ -13,3 +13,7 @@ A detailed study of the Zenodo platform and its role in Open Science and researc
 Topic: Neurogenesis and neuronal regeneration in status epilepticus.
 Methodology: Steps for searching, selecting, and downloading research data.
 Metadata Analysis: Extraction of technical data structured according to the Dublin Core standard, including DOI, creator information, and rights management.
+Files
+COPASI-ZENODO-REPORT: The complete scientific report in PDF format.
+Authors:
+ZEKKARA Afifa Ikram, BOURIDAH Amina Safia 
